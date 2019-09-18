@@ -1,0 +1,61 @@
+#navigation{
+    height:50px;
+    width:auto;
+    background-color:blue
+
+}
+
+#main{
+    height:600px;
+    width:auto;
+    background:grey;
+}
+#footer {
+  position: fixed;
+  border:black 1px solid;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color:blue;
+  width: 100%;
+}
+body {
+  margin-bottom: 0px;
+
+}
+
+#right{
+  position: absolute;
+  right:10px;
+  top: 20px;
+}
+
+#left{
+  position: absolute;
+  left:10px;
+  top: 20px;
+
+}
+#main{
+padding:60px;
+}
+
+
+.image{
+
+    min-height: 150px;
+    min-width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+    vertical-align: middle;
+
+  }
+
+
+
+
+
+
+

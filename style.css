@@ -1,0 +1,32 @@
+p{
+  color:red;
+}
+p{
+ color:blue;
+}
+
+#blue{
+color:blue;
+}
+
+#blue1{
+color:green;
+}
+
+#red{
+color:red
+}
+
+.yellow{
+color:yellow;
+}
+
+.image{
+border:6px black dotted;
+padding:6px;
+}
+
+.image:hover{
+border: 6px red solid;
+}
+
